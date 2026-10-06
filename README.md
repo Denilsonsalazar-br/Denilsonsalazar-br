@@ -13,15 +13,11 @@ certificações e experiências práticas de desenvolvimento.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Engenharia de Software**
-- 💻 Técnico em **Informática**
-- 📊 Técnico em **Administração**
-- 🚀 Interesse em **Desenvolvimento de Software e Tecnologia**
-- 🌐 Foco atual em **Desenvolvimento Web**
-- 🗄️ Conhecimentos em **Banco de Dados e SQL**
-- 🏗️ Estudando e aplicando **Arquitetura MVC e POO**
-- 🔧 Desenvolvendo projetos práticos para aprimorar minhas habilidades
-- 📚 Em constante aprendizado por meio de cursos, certificações e projetos
+Sou graduando em **Engenharia de Software**, com formação técnica em **Informática** e **Administração**. Tenho interesse em desenvolvimento de software e venho desenvolvendo projetos práticos para aplicar e aprimorar meus conhecimentos.
+
+Atualmente, estou direcionando meus estudos para **desenvolvimento web, programação, bancos de dados e engenharia de software**, buscando evoluir continuamente por meio da graduação, projetos, cursos e certificações.
+
+Meu objetivo é transformar conhecimento em prática, construindo soluções e desenvolvendo uma base sólida para minha carreira na área de tecnologia.
 
 ---
 
@@ -38,7 +34,6 @@ certificações e experiências práticas de desenvolvimento.
 ### Banco de Dados
 
 - MySQL
-- MariaDB
 
 ### Ferramentas e Conceitos
 
@@ -47,7 +42,6 @@ certificações e experiências práticas de desenvolvimento.
 - XAMPP
 - MVC
 - CRUD
-- Fundamentos de REST API
 - Fundamentos de Programação Orientada a Objetos
 
 ---
