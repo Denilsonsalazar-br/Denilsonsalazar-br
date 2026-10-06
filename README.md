@@ -52,7 +52,7 @@ certificações e experiências práticas de desenvolvimento.
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto Destaque 
 
 ### 🍽️ Software de Delivery
 
