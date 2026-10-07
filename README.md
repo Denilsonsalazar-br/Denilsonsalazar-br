@@ -2,9 +2,9 @@
 
 ### 🎓 Graduando em Engenharia de Software | 💻 Desenvolvimento de Software | 🌐 Desenvolvimento Web
 
-Sou estudante de Engenharia de Software, com foco no desenvolvimento
-de projetos práticos e na evolução contínua das minhas habilidades em tecnologia.
-
+Graduando em Engenharia de Software (2º semestre), com foco no desenvolvimento
+de projetos práticos e na evolução contínua das minhas habilidades em tecnologia, 
+administração de projetos, melhorando minhas soft skills.
 Possuo formação técnica em **Informática** e **Administração** e atualmente
 estou ampliando meus conhecimentos por meio da graduação, projetos pessoais,
 certificações e experiências práticas de desenvolvimento.
@@ -14,9 +14,7 @@ certificações e experiências práticas de desenvolvimento.
 ## 👨‍💻 Sobre mim
 
 Sou graduando em **Engenharia de Software**, com formação técnica em **Informática** e **Administração**. Tenho interesse em desenvolvimento de software e venho desenvolvendo projetos práticos para aplicar e aprimorar meus conhecimentos.
-
 Atualmente, estou direcionando meus estudos para **desenvolvimento web, programação, bancos de dados e engenharia de software**, buscando evoluir continuamente por meio da graduação, projetos, cursos e certificações.
-
 Meu objetivo é transformar conhecimento em prática, construindo soluções e desenvolvendo uma base sólida para minha carreira na área de tecnologia.
 
 ---
